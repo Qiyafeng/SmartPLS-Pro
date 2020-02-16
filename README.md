@@ -21,7 +21,7 @@
 #### 4、免费提供远程安装服务
 
 * Win版64位安装包： 链接:https://pan.baidu.com/s/1ZUIFTJVzWGVhAOiOQ1Rq2Q  密码:9ry5
-* Win版32位安装包： 链接：链接:https://pan.baidu.com/s/12KDW0nOGxoc0nty-v7dcZg  密码:3nh1
+* Win版32位安装包： 链接:https://pan.baidu.com/s/12KDW0nOGxoc0nty-v7dcZg  密码:3nh1
 
 ![](https://ftp.bmp.ovh/imgs/2020/02/11ac192523e3d52c.png)
 
@@ -34,15 +34,18 @@
 #### 4、免费提供远程安装服务；
 
 
-* Mac版安装包：待补充
+* Mac版安装包：蓝奏云：https://www.lanzous.com/i9f5n5c
 
 ![](https://ftp.bmp.ovh/imgs/2020/02/3cfce578d90abeef.jpg)
 
 
 ## 远程控制软件——向日葵远程控制
 
-Win版安装包：链接:https://pan.baidu.com/s/1oHltv2GOj_R0SutUOaHWXw  密码:sm3y
-Mac版安装包：待补充
+Win版安装包：蓝奏云：https://www.lanzous.com/i9f5neb
+
+
+Mac版安装包：蓝奏云：https://www.lanzous.com/i9f5ong
+
 
 ## 激活秘钥购买说明
 激活秘钥200元/枚，数量有限，为充分保证您的权益，本交易可在淘宝平台上进行，点击以下链接直达淘宝店铺，可通过淘宝旺旺进一步了解详情
