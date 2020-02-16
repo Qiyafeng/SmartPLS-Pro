@@ -13,7 +13,7 @@
 * 创建数据组以毫不费力地运行多组分析。
 * 创建交互术语并运行主持人分析没有任何问题。
 
-## SmartPLS 3.2.9 Pro for Windows 秘钥激活+10年使用期
+# SmartPLS 3.2.9 Pro for Windows 秘钥激活+10年使用期
 
 #### 1、适用系统：Win10、Win8、Win7、XP；
 #### 2、10年期秘钥激活，可以使用3650天；
@@ -27,7 +27,7 @@
 
 
 
-## SmartPLS 3.2.9 Pro for Mac 秘钥激活+10年使用期
+# SmartPLS 3.2.9 Pro for Mac 秘钥激活+10年使用期
 #### 1、适用系统：Catalina (10.15)、Mojave (10.14)、High Sierra 10.13 (with minor problems)、Sierra 10.12、El Capitan 10.11、Yosemite 10.10；
 #### 2、10年期秘钥激活，可以使用3650天；
 #### 3、激活码锁定电脑硬件ID，一个激活码只能激活一台电脑；
