@@ -23,7 +23,8 @@
 * Win版64位安装包： 链接:https://pan.baidu.com/s/1ZUIFTJVzWGVhAOiOQ1Rq2Q  密码:9ry5
 * Win版32位安装包： 链接：链接:https://pan.baidu.com/s/12KDW0nOGxoc0nty-v7dcZg  密码:3nh1
 
-![](https://ftp.bmp.ovh/imgs/2020/02/11ac192523e3d52c.png)
+![](https://raw.githubusercontent.com/Qiyafeng/QSR/master/img/WangWang20200216101754.png)
+
 
 
 ## SmartPLS 3.2.9 Pro for Mac 秘钥激活+10年使用期
@@ -35,7 +36,8 @@
 
 * Mac版安装包：待补充
 
-![](https://ftp.bmp.ovh/imgs/2020/02/3cfce578d90abeef.jpg)
+![](https://raw.githubusercontent.com/Qiyafeng/QSR/master/img/smartpls.png)
+
 
 ## 远程控制软件——向日葵远程控制
 
