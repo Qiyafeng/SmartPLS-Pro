@@ -47,7 +47,5 @@ Win版安装包：蓝奏云：https://www.lanzous.com/i9f5neb
 Mac版安装包：蓝奏云：https://www.lanzous.com/i9f5ong
 
 
-## 激活秘钥说明
-激活秘钥200元/枚，数量有限，为充分保证您的权益，本交易可在淘宝平台上进行，点击以下链接直达淘宝店铺，可通过淘宝旺旺进一步了解详情
-
-https://item.taobao.com/item.htm?spm=a2oq0.12575281.0.0.54091debnP4GNa&ft=t&id=609634013182
+## 激活秘钥获取
+激活秘钥数量有限，先到先得。关注微信公众号“SEM大叔”，回复“SmartPLS”获取激活秘钥。
