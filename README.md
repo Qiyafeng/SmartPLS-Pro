@@ -36,7 +36,7 @@
 
 * Mac版安装包：蓝奏云：https://www.lanzous.com/i9f5n5c
 
-![](https://ftp.bmp.ovh/imgs/2020/02/3cfce578d90abeef.jpg)
+![](https://raw.githubusercontent.com/Qiyafeng/QSR/master/20200217100738.png)
 
 
 ## 远程控制软件——向日葵远程控制
