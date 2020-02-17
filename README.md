@@ -23,8 +23,7 @@
 * Win版64位安装包： 链接:https://pan.baidu.com/s/1ZUIFTJVzWGVhAOiOQ1Rq2Q  密码:9ry5
 * Win版32位安装包： 链接:https://pan.baidu.com/s/12KDW0nOGxoc0nty-v7dcZg  密码:3nh1
 
-![](https://raw.githubusercontent.com/Qiyafeng/QSR/master/20200217102423.png
-)
+![](https://raw.githubusercontent.com/Qiyafeng/QSR/master/20200217102423.png)
 
 
 
@@ -50,4 +49,5 @@ Mac版安装包：蓝奏云：https://www.lanzous.com/i9f5ong
 
 ## 激活秘钥获取
 激活秘钥数量有限，价格200元/枚，为充分保证各方权益，本交易在淘宝平台上进行，点击以下链接直达淘宝店铺，可通过淘宝旺旺进一步了解详情
-https://item.taobao.com/item.htm?spm=a2oq0.12575281.0.0.25911debwSM3sC&ft=t&id=612142595063
+
+https://item.taobao.com/item.htm?spm=a2oq0.12575281.0.0.25911debMlXNnO&ft=t&id=609634013182
