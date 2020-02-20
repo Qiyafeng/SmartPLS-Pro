@@ -50,4 +50,4 @@ Mac版安装包：蓝奏云：https://www.lanzous.com/i9f5ong
 ## 激活秘钥获取
 激活秘钥数量有限，价格100元/枚，为充分保证各方权益，本交易在淘宝平台上进行，点击以下链接直达淘宝店铺，可通过淘宝旺旺进一步了解详情
 
-https://item.taobao.com/item.htm?spm=a2oq0.12575281.0.0.39af1debaRD8XE&ft=t&id=612036761673
+https://item.taobao.com/item.htm?spm=a2oq0.12575281.0.0.39af1deb9QKZoY&ft=t&id=612142137462
