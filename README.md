@@ -1,4 +1,4 @@
-# SmartPLS Pro 3.2.9 for Mac 中文版10年期秘钥激活
+# SmartPLS Pro 3.2.9 专业版秘钥激活 Windows系统和Mac系统均可激活
 
 #### SmartPLS是一款专业的偏小二乘法统计软件，拥有强大的建模环境，内置算法解释和有意义的默认值，可以跟踪分析所有的文件，将分析结果导出html或excel文件。
 
@@ -13,23 +13,26 @@
 * 创建数据组以毫不费力地运行多组分析。
 * 创建交互术语并运行主持人分析没有任何问题。
 
-#### 1、适用系统：Catalina (10.15)、Mojave (10.14)、High Sierra 10.13 (with minor problems)、Sierra 10.12、El Capitan 10.11、Yosemite 10.10；
+#### 1、适用系统：Windows系统和Mac系统
 #### 2、10年期秘钥激活；
 #### 3、许可证锁定电脑硬件ID，一个许可证只能激活一台电脑；
 #### 4、免费提供远程安装服务；
 
 
-* 安装包下载：蓝奏云：https://www.lanzous.com/i9f5n5c
+### 安装包下载
+* Mac版：蓝奏云：https://www.lanzous.com/i9f5n5c
+* Win版：百度网盘: https://pan.baidu.com/s/1WGKR4S51Zf-CRs7DdzcIDA  密码:npql
+
 
 ![](https://raw.githubusercontent.com/Qiyafeng/QSR/master/20200217100738.png)
 
 
-## 远程控制软件——向日葵远程控制
+## 远程控制软件——向日葵远程控制下载
 
-蓝奏云：https://www.lanzous.com/i9f5ong
-
+* Mac版：https://www.lanzous.com/i9f5ong
+* Win版：https://www.lanzous.com/i9f5neb
 
 ## 激活秘钥获取
-激活秘钥数量有限，价格200元/枚，为充分保证各方权益，本交易在淘宝平台上进行，点击以下链接直达淘宝店铺，可通过淘宝旺旺进一步了解详情
+### 激活秘钥数量有限，价格100元/枚，添加QQ:1359715112 购买获取。凡购买激活秘钥，均可获赠陈世智SmartPLS教程（官网售价1300元）
 
-https://item.taobao.com/item.htm?spm=2013.1.w4023-22276904473.16.113d1e02uO4mY7&id=609634013182
+
