@@ -32,8 +32,10 @@
 * Mac版：https://www.lanzous.com/i9f5ong
 * Win版：https://www.lanzous.com/i9f5neb
 
+
+
 ## 激活秘钥获取
-### 激活秘钥数量有限，价格100元/枚，加QQ 1359715112 购买和激活
+### 激活秘钥数量有限，价格200元/枚，加QQ 1359715112 购买和激活
 
 
 
